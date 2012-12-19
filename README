@@ -1,3 +1,5 @@
+  Please fork authors original - https://github.com/massemanet/eper
+
   eper is a loose collection of Erlang Performance related tools.
 
   sherk - a profiler, similar to Linux oprofile or MacOs shark
